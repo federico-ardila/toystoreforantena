@@ -1,0 +1,17 @@
+#product-list{
+    background-color: beige;
+    border: 2px solid black;
+}
+
+.product {
+    color: black;
+}
+
+.product.boy-product {
+    color: blue;
+}
+
+.product.girl-product {
+    color: pink;
+}
+
